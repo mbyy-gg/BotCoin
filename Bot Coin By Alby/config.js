@@ -3,6 +3,6 @@ module.exports = {
     ownerId: 5676072619,
     channels: ['@botcoinalby', '@seputarinfobotcoinalby'], // Username channel wajib join
     group: '@roompublicalbytzy', // Username grup wajib join
-    notifChannel: '@penukarancoinalby', // Channel laporan penukaran
+    notifChannel: '@seputarinfobotcoinalby', // Channel laporan penukaran
     startImage: 'https://files.catbox.moe/rbqlhl.jpeg' // Gambar menu utama
 };
