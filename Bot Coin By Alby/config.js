@@ -1,8 +1,8 @@
 module.exports = {
-    botToken: '8696627610:AAHgiGjpapfc4_oqYlrQTk3NrHrn5H-xWsc', // Isi token dari @BotFather
+    botToken: '8613554197:AAExMnSvcm2yVDeqPoC-hcU9mamJCI9mHps', // Isi token dari @BotFather
     ownerId: 5676072619,
     channels: ['@botcoinalby', '@seputarinfobotcoinalby'], // Username channel wajib join
     group: '@roompublicalbytzy', // Username grup wajib join
     notifChannel: '@seputarinfobotcoinalby', // Channel laporan penukaran
-    startImage: 'https://files.catbox.moe/rbqlhl.jpeg' // Gambar menu utama
+    startImage: 'https://files.catbox.moe/tdmz8p.jpg' // Gambar menu utama
 };
